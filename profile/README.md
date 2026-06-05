@@ -12,7 +12,8 @@
   <a href="https://smista.ai">Website</a> &middot;
   <a href="https://smista.ai/blog">Blog</a> &middot;
   <a href="https://docs.smista.ai">Documentation</a> &middot;
-  <a href="https://x.com/smista_ai">X / Twitter</a> &middot;
+  <a href="https://x.com/smista_ai">X.com</a> &middot;
+  <a href="https://discord.gg/TSnkhM4fvg">Discord</a> &middot;
   <a href="mailto:info@smista.ai">Email</a>
 </p>
 
